@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    background-image: linear-gradient(to bottom right, white, grey, black, white);
+}
+
+img {
+    transition: transform.2s;
+
+}
+
+img:hover {
+    transform: scale(2);
+}
+
+#CONTAINER2 {
+    height: 400px;
+    background-color: fuchsia;
+}
+
+#section3 h1 {
+    color: blueviolet;
+}
